@@ -1,0 +1,3 @@
+"group"	"id_mean_biomass"	"tx2gene_mean_biomass"	"biomass_tx_minus_id"	"id_mean_pyruvate_kinase"	"tx2gene_mean_pyruvate_kinase"	"pk_tx_minus_id"	"id_mean_ldh"	"tx2gene_mean_ldh"	"ldh_tx_minus_id"
+"Alzheimer"	"81.6384909714233"	"84.0589584441347"	"2.42046747271141"	"1899.36076184521"	"1899.36076184521"	"0"	"-2060.19534099779"	"-2060.19534099779"	"0"
+"Control"	"120.794162155311"	"121.94649463937"	"1.152332484059"	"2031.19113204075"	"2031.19113204075"	"0"	"-2159.99529042318"	"-2159.99529042318"	"0"

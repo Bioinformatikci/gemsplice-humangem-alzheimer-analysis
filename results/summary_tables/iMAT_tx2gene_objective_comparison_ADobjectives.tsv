@@ -1,0 +1,5 @@
+"run"	"objective1"	"AD_mean"	"Control_mean"	"AD_minus_Control"	"percent_vs_control"
+"previous_humanGEM_rules_tx2gene_LOG2"	"pyruvate_kinase_MAR04358"	"1899.36076184521"	"2031.19113204075"	"-131.83037019554"	"-6.49029862901623"
+"new_AD_objectives_tx2gene_LOG2"	"mitochondrial_complex_I_MAR06921"	"799.65026216214"	"825.175793794659"	"-25.5255316325189"	"-3.09334469387874"
+"shared_objective_LOG2"	"lactate_max_MAR04388"	"1994.49133150925"	"1963.23976844863"	"31.2515630606199"	"1.591836288306"
+"shared_objective_LOG2"	"glutamate_lactate_min_MAR03802_MAR04388"	"-1652.28878356306"	"-1771.67616646967"	"119.38738290661"	"6.73866845228874"

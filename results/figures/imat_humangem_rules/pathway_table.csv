@@ -1,0 +1,124 @@
+Pathway,ReferenceRelativeFluxChange,ComparisonRelativeFluxChange
+"Acyl-CoA hydrolysis",-0.306782582278171,0.165759289665671
+"Acylglycerides metabolism",1,1
+"Alanine, aspartate and glutamate metabolism",528.964681975537,-3.15047699696041
+"Amino sugar and nucleotide sugar metabolism",-1.8479015711838,-1.43047296994523
+"Aminoacyl-tRNA biosynthesis",NaN,NaN
+"Androgen metabolism",-4.73804997559105,-1.22979691753144
+"Arachidonic acid metabolism",-4.70598921256849,-2.17446982376941
+"Arginine and proline metabolism",0.201442713482278,2.17513816563381
+"Artificial reactions",NaN,NaN
+"Ascorbate and aldarate metabolism",-0.238188885024319,-0.363920816710437
+"Beta oxidation of branched-chain fatty acids (mitochondrial)",1,1
+"Beta oxidation of di-unsaturated fatty acids (n-6) (mitochondrial)",0.957774444052242,0.964825603581055
+"Beta oxidation of di-unsaturated fatty acids (n-6) (peroxisomal)",NaN,NaN
+"Beta oxidation of even-chain fatty acids (mitochondrial)",-2.09280875865433,-1.42568081945466
+"Beta oxidation of even-chain fatty acids (peroxisomal)",0.635485274492676,0.916533233595458
+"Beta oxidation of odd-chain fatty acids (mitochondrial)",-3.15237274098183,-2.00000000000007
+"Beta oxidation of odd-chain fatty acids (peroxisomal)",-5.07371830471839,-2
+"Beta oxidation of phytanic acid (peroxisomal)",1,1
+"Beta oxidation of poly-unsaturated fatty acids (mitochondrial)",NaN,-1.94175048970247
+"Beta oxidation of unsaturated fatty acids (n-7) (mitochondrial)",0.998414704393458,0.987833989976358
+"Beta oxidation of unsaturated fatty acids (n-7) (peroxisomal)",-384.681112349627,NaN
+"Beta oxidation of unsaturated fatty acids (n-9) (mitochondrial)",-1.379954498881,-0.228271348292254
+"Beta oxidation of unsaturated fatty acids (n-9) (peroxisomal)",-27.522745898572,-45.5468750000001
+"Beta-alanine metabolism",1,1
+"Bile acid biosynthesis",-1.64067737844077,-226.119882746419
+"Bile acid recycling",0.65127728590113,0.618018736535127
+"Biopterin metabolism",0.732562509310572,0.686400288449635
+"Butanoate metabolism",0.246124490936972,0.529966304342278
+"C5-branched dibasic acid metabolism",1.08192974962144,1.68050874484857
+"Carnitine shuttle (cytosolic)",-0.215647788975001,-0.160602720214323
+"Carnitine shuttle (endoplasmic reticular)",0.0331227743572998,-0.0541922050026498
+"Carnitine shuttle (mitochondrial)",-0.263249662328549,-0.505988425658101
+"Carnitine shuttle (peroxisomal)",1,1
+"Cholesterol biosynthesis 1 (Bloch pathway)",1,1
+"Cholesterol metabolism",0.891423190334351,0.821900048761591
+"Chondroitin sulfate degradation",1,NaN
+"Cysteine and methionine metabolism",-1.78543368550102,-2.39129832748687
+"Dietary fiber binding",0.25,0.133664062606208
+"Drug metabolism",0.165811408955418,0.191679404690894
+"Eicosanoid metabolism",-5.38597757333521,-3.1382834394914
+"Estrogen metabolism",-0.121856504013763,-0.789074649592795
+"Ether lipid metabolism",1,1
+"Exchange/demand reactions",1.23435986117855,1.21014428719624
+"Fatty acid activation (cytosolic)",1,1
+"Fatty acid biosynthesis",-1.39224817270078,-9.30018884156527
+"Fatty acid biosynthesis (unsaturated)",0.782054621716746,-0.603261363201244
+"Fatty acid desaturation (even-chain)",0.90030058777997,-101.75
+"Fatty acid desaturation (odd-chain)",1,1
+"Fatty acid elongation (even-chain)",0.117296670370473,-0.0556873985134941
+"Fatty acid metabolism",1,NaN
+"Fatty acid oxidation",7.40521768162223,11.8121920396113
+"Folate metabolism",-10.9408984204167,2.70534764794152
+"Formation and hydrolysis of cholesterol esters",-0.242967903990436,-0.211820288519786
+"Fructose and mannose metabolism",-3.16388667773375,15.824643555719
+"Galactose metabolism",0.0661881871285854,-1.09089717981358
+"Glucocorticoid biosynthesis",NaN,-19.98504530925
+"Glutathione metabolism",-0.411188851243953,-0.121736424224625
+"Glycerolipid metabolism",-0.817584035062167,-7.36766670968754
+"Glycerophospholipid metabolism",-0.921357492991574,-1.71607046846609
+"Glycine, serine and threonine metabolism",-5.15101179673045,-4.97121584416596
+"Glycolysis / Gluconeogenesis",0.349990594657326,-0.0683191180925078
+"Glycosphingolipid biosynthesis-ganglio series",NaN,-6.03855422655541
+"Glycosphingolipid biosynthesis-globo series",NaN,NaN
+"Glycosphingolipid metabolism",-4.69778939821273,-10.2964604936598
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",1,1
+"Glyoxylate and dicarboxylate metabolism",1,1
+"Heme degradation",-4.55517777468503,-1.32751674801633
+"Heparan sulfate degradation",1,1
+"Histidine metabolism",-0.618428901611778,-1.06837569997863
+"Inositol phosphate metabolism",-1.07594979789986,-0.646882509003885
+"Isolated",-1.28579271073195,-1.15627780802422
+"Leukotriene metabolism",0.0603293019033718,0.181511999852481
+"Linoleate metabolism",NaN,NaN
+"Lipoic acid metabolism",-0.16213056387497,-0.0555597259243809
+"Lysine metabolism",0.121784354768477,6.51006593071187
+"Miscellaneous",-0.607725452408171,-0.306998224139477
+"N-glycan metabolism",-6.73001855035603,-4.66537546670633
+"Nicotinate and nicotinamide metabolism",-1.87585511582954,0.441959149698916
+"Nucleotide metabolism",0.444245648891677,0.395173546719417
+"O-glycan metabolism",NaN,4.39896802031017
+"Omega-3 fatty acid metabolism",0.997026658454076,0.989550534750322
+"Omega-6 fatty acid metabolism",0.96763355938223,0.871552319705232
+"Oxidative phosphorylation",-0.239303742786254,-1.42412480710766
+"Pantothenate and CoA metabolism",1,NaN
+"Pentose Phosphate Pathway",1,1
+"Pentose and glucuronate interconversions",0.0290136888697875,-0.612823636734184
+"Pentose phosphate pathway",-1.72951893251906,-4.47022210158864
+"Peptide metabolism",-0.287217341793467,-0.257309168947606
+"Phenylalanine metabolism",1,1
+"Phenylalanine, tyrosine and tryptophan biosynthesis",-0.084517514218409,0.0423417253476078
+"Phosphatidylinositol phosphate metabolism",1,1
+"Pool reactions",-0.381680003469588,-0.377466432615885
+"Porphyrin metabolism",-1.33681787339067,-3.69332664316153
+"Propanoate metabolism",-3.62709658374315,-1.69424139194355
+"Prostaglandin biosynthesis",-1.97753958986445,-0.760298911902776
+"Protein assembly",-0.14709092359787,0.158204564410093
+"Protein degradation",NaN,1
+"Protein modification",NaN,-24.3374372534068
+"Purine metabolism",2.10043339191675,-2.5656708591989
+"Pyrimidine metabolism",1.35632770986791,1.67290075036212
+"Pyruvate metabolism",-3.1072267166841,-3.26196157840855
+"ROS detoxification",1,1
+"Retinol metabolism",-1.96762508017663,0.275540832907595
+"Serotonin and melatonin biosynthesis",-1.08361707514845,-0.905966426565562
+"Sphingolipid metabolism",-0.298799072624515,-0.267176659323038
+"Starch and sucrose metabolism",-30.2608380456663,NaN
+"Steroid metabolism",3.01492549483242,-13.5077301370665
+"Sulfur metabolism",NaN,1
+"Terpenoid backbone biosynthesis",NaN,NaN
+"Thiamine metabolism",NaN,NaN
+"Transport reactions",0.0131750471230137,0.29567952409705
+"Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism",0.220198021724244,0.145817984233078
+"Tryptophan metabolism",-0.539435736277655,-0.327453118972322
+"Tyrosine metabolism",-0.663395474496202,-0.254858166524303
+"Ubiquinone synthesis",1,1
+"Urea cycle",-5.49010605137129,11.3534850772072
+"Valine, leucine, and isoleucine metabolism",-1.07775850053747,-2.65518935824795
+"Vitamin A metabolism",-9.42921557487907,NaN
+"Vitamin B12 metabolism",NaN,NaN
+"Vitamin B6 metabolism",-0.164743435134354,-1.30365969903808
+"Vitamin C metabolism",1,NaN
+"Vitamin D metabolism",NaN,NaN
+"Vitamin E metabolism",0.621321160778021,0.474121033945609

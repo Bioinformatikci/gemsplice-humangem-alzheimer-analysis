@@ -1,0 +1,7 @@
+This curated repository contains original project code authored by Burak Keskin and external GEMsplice reference code under `external/original_gemsplice/`.
+
+External GEMsplice files retain their original license, included at:
+
+external/original_gemsplice/LICENSE
+
+Unless a file states otherwise, project-specific code and documentation in this curated repository are provided for academic portfolio and research demonstration purposes. Reuse should cite this repository and respect the license terms of the external GEMsplice code.

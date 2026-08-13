@@ -1,0 +1,7 @@
+"tool"	"group"	"n"	"objective1"	"mean_objective1"	"objective2"	"mean_objective2"	"objective3"	"mean_objective3"
+"humanGEM_tx2gene_log2"	"Alzheimer"	"3"	"biomass"	"84.0589584441347"	"pyruvate_kinase"	"1899.36076184521"	"LDH_or_GDH_min"	"-2060.19534099779"
+"humanGEM_tx2gene_log2"	"Control"	"3"	"biomass"	"121.94649463937"	"pyruvate_kinase"	"2031.19113204075"	"LDH_or_GDH_min"	"-2159.99529042318"
+"iMAT_tx2gene_humanGEM_rules_log2"	"Alzheimer"	"3"	"pyruvate_kinase"	"1899.36076184521"	"lactate_max"	"2029.32283363853"	"glutamate_lactate_max_min"	"-1652.28878356306"
+"iMAT_tx2gene_humanGEM_rules_log2"	"Control"	"3"	"pyruvate_kinase"	"2031.19113204075"	"lactate_max"	"1963.23976844863"	"glutamate_lactate_max_min"	"-1771.67616646967"
+"iMAT_tx2gene_AD_objectives_log2"	"Alzheimer"	"3"	"mitochondrial_complex_I"	"799.65026216214"	"lactate_max"	"1994.49133150925"	"glutamate_lactate_max_min"	"-1652.28878356306"
+"iMAT_tx2gene_AD_objectives_log2"	"Control"	"3"	"mitochondrial_complex_I"	"825.175793794659"	"lactate_max"	"1963.23976844863"	"glutamate_lactate_max_min"	"-1771.67616646967"

@@ -1,0 +1,49 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MATLAB / Octave / solver artifacts
+*.mat
+*.fig
+*.asv
+*.mex*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large sequencing and quantification artifacts
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.sf
+*.bin
+*.gz
+
+# Local run outputs
+logs/
+tmp/
+temp/
+scratch/
+workspace/
+archive/
+99_ARCHIVE_OLD_WORKSPACES/
+00_CLEANUP_REPORTS/
+
+# Office/source report duplicates
+*.docx
+*.pptx
+*.html
+
+# Keep final reports as selected PDFs only
+!results/reports/*.pdf
