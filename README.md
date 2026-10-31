@@ -4,6 +4,37 @@ This repository is a curated portfolio version of an Alzheimer/control transcrip
 
 The project integrates Salmon transcript quantification outputs, transcript-to-gene/reaction mapping, Human-GEM-derived model resources, and GEMsplice/iMAT-style analysis scripts to compare Alzheimer and control sample behavior at the pathway and objective-function level.
 
+## Background
+
+Gene-level summaries can hide which transcripts are actually expressed. This project keeps transcript-level expression in view and asks how Alzheimer and control samples compare once that expression is mapped onto a genome-scale model of human metabolism.
+
+## Method in Brief
+
+1. Quantify transcripts from public RNA-seq data with Salmon ([PRJNA670209](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA670209); 3 Alzheimer and 3 control samples).
+2. Map transcripts to genes and Human-GEM reactions.
+3. Run GEMsplice and iMAT-style analyses for each sample.
+4. Compare objective values and pathway-level flux changes between groups.
+
+The steps and entry points are described in [`docs/workflow.md`](docs/workflow.md).
+
+## Selected Figures
+
+**Pathway-level relative flux change.** Each point is one metabolic pathway, comparing control and Alzheimer relative flux changes.
+
+![Pathway-level relative flux change scatter plot](results/figures/imat_humangem_rules/plot3.png)
+
+**Pairwise objective projections.** Each point is one sample, shown across pairs of objective values.
+
+![Pairwise objective projection plots](results/figures/imat_humangem_rules/plot2.png)
+
+## Limitations
+
+- This is a small exploratory comparison of 3 Alzheimer and 3 control samples, so results are not disease findings.
+- It uses public data and is for research support only: no clinical diagnosis, treatment decisions, or patient-specific interpretation.
+- Raw data and large model files are not included, so the full workflow cannot be rerun from this repository alone.
+
+Further detail is in [`docs/limitations.md`](docs/limitations.md).
+
 ## Repository Scope
 
 This repository intentionally contains only the clean code, compact summary outputs, selected figures, and one final report needed to understand the finished analysis. Large model binaries, raw sequencing data, Salmon indexes, solver experiments, local environment notes, and archived development folders are not included.
